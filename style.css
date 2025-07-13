@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f0f0f;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  background-color: #1a1a1a;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 0 30px limegreen;
+  width: 90%;
+  max-width: 600px;
+}
+
+span {
+  color: limegreen;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  color: #00ffcc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+h2 {
+  margin-top: 30px;
+  color: #00ffcc;
+}
